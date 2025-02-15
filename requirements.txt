@@ -1,0 +1,4 @@
+newspaper3k
+lxml-html-clean
+transformers
+torch
